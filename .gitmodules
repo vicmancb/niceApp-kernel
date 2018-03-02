@@ -1,3 +1,6 @@
 [submodule "alpha"]
 	path = alpha
 	url = git@github.com:vicmancb/alpha.git
+[submodule "beta"]
+	path = beta
+	url = git@github.com:vicmancb/beta.git
